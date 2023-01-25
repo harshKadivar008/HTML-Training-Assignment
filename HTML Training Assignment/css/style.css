@@ -1,0 +1,86 @@
+.circle{
+    border-radius: 50%;
+    border: 23px solid rgb(255, 255, 255);
+    height: 500px;
+}
+.div{
+    background-color: #424242;
+}
+.div1{
+    position : absolute;
+    margin-top: 200px;
+    left: 100px;
+}
+.div2{
+    position : absolute;
+    margin-top: 200px;
+    left: 800px;
+}
+
+.hed{
+    font-size: 35px;
+    font-family: Arial;
+    color: #3E3E3E;
+}
+.red{
+    color: #C8242F;
+    
+}
+.log{
+    font-size: 23px;
+    font-family: Arial;
+    color: #3E3E3E;
+}
+.link{
+    text-decoration: none;
+    color: #ADADAD;
+}
+.reg{
+    text-decoration: none;
+    color:#C8242F ;
+}
+#uname {
+    border-radius: 5px;
+    padding: 20px; 
+    width: 350px;
+    height: 2px;   
+    border: 1px solid #ADADAD; 
+}
+#pass {
+    border-radius: 5px;
+    padding: 20px; 
+    width: 350px;
+    height: 2px; 
+    border: 1px solid #ADADAD;   
+}
+#sub {
+    border-radius: 23px;
+    padding: 20px; 
+    width: 100px;
+    height: 2px;
+    background-color:#C8242F;  
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.div4{
+    height: 80px;
+    width: 1560px;
+    margin: auto;
+}
+/* .im{
+    position: absolute;
+    left: 29px;
+    top: 34px;
+    opacity: 1;
+}
+
+.im2{
+    
+    width: 16px;
+    height: 16px;
+    
+} */
+.span{
+    top: 28px;
+    left: 321px;
+}
