@@ -529,12 +529,6 @@ th, td {
     width: 525px;
     border: 1px solid #ADADAD; 
 }
-#form5 {
-    border-radius: 5px;
-    padding: 20px; 
-    width: 525px;
-    border: 1px solid #ADADAD; 
-}
 .div48{
     margin-top: 550px;
     margin-left: 30px;
@@ -542,15 +536,29 @@ th, td {
     display: flex;
     gap: 30px;
 }
-#form6 {
+#form5 {
     border-radius: 5px;
     padding: 20px; 
     width: 525px;
     border: 1px solid #ADADAD; 
 }
-#form7 {
+.div49{
+    position: absolute;
+    margin-top: 625px;
+    margin-left: 29px;
+    color: #3E3E3E;
+    font-size: 22px;
+}
+.div{
+    margin-top: 700px;
+    margin-left: 30px;
+    position: absolute;
+    display: flex;
+    gap: 30px;
+}
+#form6{
     border-radius: 5px;
     padding: 20px; 
-    width: 525px;
+    width: 33px;
     border: 1px solid #ADADAD; 
 }
