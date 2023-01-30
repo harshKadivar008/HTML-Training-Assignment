@@ -1,0 +1,93 @@
+#i1{
+    border-radius: 50%;
+    border: 20px solid rgb(255, 255, 255);
+}
+#body{
+    background-color: #FAFAFA;
+}
+#exp{
+    color: #C8242F;
+}
+#f1{
+    border: 1px solid #ADADAD;
+    height: 49px;
+    border-radius: 5px;
+    width: 429px;
+}
+#sub{
+    width: 138px;
+    height: 45px;
+    background: #C8242F 0% 0% no-repeat padding-box;
+    border-radius: 23px;
+    border: #C8242F;
+    color: white;
+}
+#menu{
+    margin-top: 34px;
+    margin-left: 29px;
+    width: 18px;
+    height: 12px;
+}
+#header{
+    margin-top: 25px;
+    margin-left: 72px;
+    width: 142px;
+    height: 30px;
+}
+#search{
+    width: 16px;
+    height: 16px;
+}
+#noti{
+    top: 28px;
+    left: 1294px;
+    width: 22px;
+    height: 21px;
+}
+#profile{
+    top: 18px;
+    left: 1368px;
+    width: 44px;
+    height: 44px;
+
+}
+#down{
+    width: 10px;
+    height: 6px;
+}
+#d1{
+    width: 242px;
+    height: 80px;
+    display: flex;
+}
+.leftside{
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.rightside{
+    margin-right: 45px;
+    display: flex;
+    align-items: center;
+}
+.imgd{
+    height: 16px;
+    margin-top: 15px;
+    margin-left: 18px;
+}
+#d2{
+    display: flex;
+    gap: 5px;
+}
+.dol{
+    list-style: none;
+    
+}
+.lis{
+    display: flex;
+    gap: 5px;
+}
+.par{
+    margin-top: 10px;
+}
