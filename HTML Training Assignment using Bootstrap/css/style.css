@@ -22,6 +22,13 @@
     border: #C8242F;
     color: white;
 }
+.re{
+
+}
+@media screen and (max-width:575px) {
+    .re{padding-left: 20px;
+    padding-right: 20px;}
+}
 #menu{
     margin-top: 34px;
     margin-left: 29px;
@@ -90,4 +97,120 @@
 }
 .par{
     margin-top: 10px;
+}
+.img1{
+    width: 33px;
+    
+}
+.d4{
+    background-color: #ffffff;
+    width: 219px;
+    height: 116px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.d5{
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 300px;
+    width: 800px;
+}
+/* .d6{
+    height: 1279px;
+    width: 1318px;
+    background-color: rgb(250, 250, 250); 
+    padding-left: 50px; 
+    padding-right: 50px;
+} */
+.left{
+    margin-left: 0;
+    margin-right: auto;
+}
+.right{
+    display: flex;
+    margin-left: auto; 
+    margin-right: 0;
+}
+.d7{
+    width: 385px;
+    height: 398px; 
+    background-color: white;   
+}
+.im2{
+    width: 18px;
+}
+
+.div35{
+    position: absolute;
+    display: flex;
+    gap: 5px;
+    font-size: 15px;
+    width: 210px;
+    
+}
+.coun{
+    margin-top: 3px;
+}
+.div36{
+    position: absolute;
+    display: flex;
+    gap: 5px;
+    font-size: 15px;
+    width: 196px;
+    height: 20px;
+    margin-left: 210px;
+}
+.div37{
+    position: absolute;
+    display: flex;
+    gap: 5px;
+    font-size: 15px;
+    width: 196px;
+    height: 20px;
+    margin-top: 30px;
+}
+.div38{
+    position: absolute;
+    display: flex;
+    gap: 5px;
+    font-size: 15px;
+    width: 196px;
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 210px;
+}
+.cell{
+    color: #3CDD5F;
+}
+.fail{
+    color: #FF4545;
+}
+.pending{
+    color: #BABABA;
+}
+@media screen and (max-width:576) {
+    .d7{
+        margin-right: 50px;
+    }
+}
+#i2{
+    height: 49px;
+    border-radius: 5px;
+    border:1px solid #ADADAD ;
+}
+.we{
+    width: 100%;
+}
+#sub1{
+    width: 138px;
+    height: 45px;
+    border-radius: 23px;
+    border: 1px solid#C8242F;
+    color: #C8242F;
+    background-color: white;
+}
+.d9{
+    border-radius: 5px;
+    height: 44px;
+    align-items: center;
 }
