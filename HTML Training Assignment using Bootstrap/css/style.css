@@ -214,3 +214,14 @@
     height: 44px;
     align-items: center;
 }
+.d10{
+
+}
+.d12{
+
+}
+@media screen and (max-width:1200px) and (min-width:360px) {
+    .d12{
+        margin-top: 20px;
+    }
+}
